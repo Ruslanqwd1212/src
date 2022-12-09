@@ -1,0 +1,17 @@
+<progect>
+    <groupId>org.example</groupId>
+    <artifactId>test-quadretic</artifactId>
+    <version>1.0</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.8.1</version>
+        </dependency>
+        <dependency>
+            <groupId>otg.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.8.1</version>
+        </dependency>
+    </dependencies>
+</progect>
